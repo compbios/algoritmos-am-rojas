@@ -1,3 +1,5 @@
+
+```
 Algoritmo Calcular_el_volumen_y_area_de_un_cilindro
 	
 
@@ -14,4 +16,6 @@ Escribir "El Volumen es:", Volumen ;
 Escribir "El Area es:", Area ;
 
 FinAlgoritmo
+
+```
 
